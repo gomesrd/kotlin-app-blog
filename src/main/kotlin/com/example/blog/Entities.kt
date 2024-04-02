@@ -1,4 +1,5 @@
-import com.example.blog.toSlug
+package com.example.blog
+
 
 import jakarta.persistence.*
 import java.time.LocalDateTime
